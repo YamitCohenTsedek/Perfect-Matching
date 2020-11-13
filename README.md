@@ -1,6 +1,6 @@
 # Perfect-Matching
 
-In this project, we built a desktop application - a version of a memory game that combines matching by musical relationships.<br />
+In this project, we built a desktop application - a version of a memory game where the matching is done musical relationships.<br />
 
 ### Code structure
 The application is written in the [MVC (Model, View, Controller) architecture](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) and contains SQL queries,
