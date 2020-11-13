@@ -1,4 +1,4 @@
-# DM_MemoryGame
+# Perfect-Matching
 
 In this project, we built a desktop application - a version of a memory game that combines matching by musical relationships.<br />
 
